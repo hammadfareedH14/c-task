@@ -1,1 +1,2 @@
 win.txt file ki extension ko .txt kai bajaye.cmd kardo and run karo window activate hogi
+window 10,pro,education
